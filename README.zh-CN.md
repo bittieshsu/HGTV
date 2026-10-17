@@ -63,12 +63,3 @@
 ### 国外赞助
 
 <a href="https://buymeacoffee.com/SkillGodAK"><img src="assets/donate-buymeacoffee.svg" alt="Buy Me a Coffee" width="180"></a>
-
-### 微信赞助
-
-<img src="assets/donate-wechat.jpg" alt="微信赞助二维码" width="180">
-
-### 台湾赞助
-
-<img src="https://raw.githubusercontent.com/SkillGodAk/SkillGodAk/main/assets/donate-taiwan.jpg" alt="台湾赞助二维码" width="180">
-

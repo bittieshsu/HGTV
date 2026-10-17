@@ -63,12 +63,3 @@ Thank you to everyone supporting **HGTV · HONGGUO TV**. Donations are entirely 
 ### International support
 
 <a href="https://buymeacoffee.com/SkillGodAK"><img src="assets/donate-buymeacoffee.svg" alt="Buy Me a Coffee" width="180"></a>
-
-### WeChat support
-
-<img src="assets/donate-wechat.jpg" alt="WeChat donation QR code" width="180">
-
-### Taiwan support
-
-<img src="https://raw.githubusercontent.com/SkillGodAk/SkillGodAk/main/assets/donate-taiwan.jpg" alt="Taiwan donation QR code" width="180">
-
