@@ -60,10 +60,15 @@
 
 感谢每一位支持 **HGTV · HONGGUO TV** 的朋友。赞助完全自愿。
 
-### 海外赞助
+### 国外赞助
 
 <a href="https://buymeacoffee.com/SkillGodAK"><img src="assets/donate-buymeacoffee.svg" alt="Buy Me a Coffee" width="180"></a>
 
-### 微信收款
+### 微信赞助
 
-<img src="assets/donate-wechat.jpg" alt="微信收款二维码" width="180">
+<img src="assets/donate-wechat.jpg" alt="微信赞助二维码" width="180">
+
+### 台湾赞助
+
+<img src="https://raw.githubusercontent.com/SkillGodAk/SkillGodAk/main/assets/donate-taiwan.jpg" alt="台湾赞助二维码" width="180">
+
